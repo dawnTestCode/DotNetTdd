@@ -1,0 +1,11 @@
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\bin\Debug\Monopoly.Tests.NUnit.dll
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\bin\Debug\Monopoly.Tests.NUnit.pdb
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\bin\Debug\Monopoly.dll
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\bin\Debug\Moq.dll
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\bin\Debug\nunit.framework.dll
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\bin\Debug\Monopoly.pdb
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\bin\Debug\Moq.pdb
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\bin\Debug\Moq.xml
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\obj\Debug\Monopoly.Tests.NUnit.dll
+C:\Code\DotNetTdd\src\Monopoly.Tests.NUnit\obj\Debug\Monopoly.Tests.NUnit.pdb

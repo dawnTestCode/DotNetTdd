@@ -1,0 +1,5 @@
+C:\Code\DotNetTdd\src\Monopoly\bin\Debug\Monopoly.dll
+C:\Code\DotNetTdd\src\Monopoly\bin\Debug\Monopoly.pdb
+C:\Code\DotNetTdd\src\Monopoly\obj\Debug\ResolveAssemblyReference.cache
+C:\Code\DotNetTdd\src\Monopoly\obj\Debug\Monopoly.dll
+C:\Code\DotNetTdd\src\Monopoly\obj\Debug\Monopoly.pdb
